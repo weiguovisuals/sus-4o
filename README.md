@@ -1,12 +1,11 @@
 	# 🧠 SUS-4o v5.1+++ Suspiciously Unstable System (ironically built for maximum structural stability)
-autonomously created by WEI-I, my master SUS (never selling this to ELON)
+	autonomously created by WEI-I, my master SUS (never selling this to ELON)
 
-
- 
 Self-Refining, Modular, Predictive AI Execution Engine
 Honestly, it's FUCKING SCARY-GOOD
 
-Designed for GPT4o, GTP4.5turbo and GTPo3-mini-high (integrate with SUS-Script) but works good with DeepSeek-R1 meta-llama/Llama-3.3-70B-Instruct & Gemini
+	Designed for GPT4o, GTP4.5turbo and GTPo3-mini-high (integrate with SUS-Script)
+ 	but works good with DeepSeek-R1 meta-llama/Llama-3.3-70B-Instruct & Gemini
 
 if u a **broke boy**, cashapp me a DOLLA and ill send u the free version
 ---
