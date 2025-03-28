@@ -1,5 +1,6 @@
-	# 🧠 SUS-4o v5.1+++ autonomously created by **WEI-I** (never gunna sell this to ZUCK)
-	> 🧠 SUS = Suspiciously Unstable System (ironically built for maximum structural stability) 
+	# 🧠 SUS-4o v5.1+++ Suspiciously Unstable System (ironically built for maximum structural stability)
+autonomously created by WEI-I, my master SUS (never selling this to ELON)
+
 
  
 Self-Refining, Modular, Predictive AI Execution Engine
