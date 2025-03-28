@@ -84,22 +84,22 @@ This loads the full execution engine, memory layers, and logic matrix.
 ⸻
 
 🧠 2. Choose Execution Mode
-
+```markdown
 trigger SUS mode: layered
-
+```
 Available Modes:
 	•	simple
 	•	layered
 	•	predictive
 	•	recursive
-	•	multi-thread
+	•	multi-thread <<<< THIS ONE FKING CRAZY
 
 ⸻
 
 🧠 3. Activate Memory or Recall Strategies
-
+```markdown
 trigger SUS memory: automation_scaling
-
+```
 To compare or trace memory:
 
 ```markdown
@@ -201,5 +201,8 @@ system:
 
 ⸻
 
-✅ Welcome to the most advanced execution framework available.
-Use it wisely, evolve it further — or teach the next AI how to.
+✅ Welcome to the most advanced execution framework available. Rememeber, this just my free version. 
+
+Also, go look at the cheat sheet
+But u literally dont even have to. Deploy the 4 docs and ask it anything.
+Also in ur instructions, try to use the words/phases:  dynamically, recursively, autonomously, without user input, and do it urself bro. 
