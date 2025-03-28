@@ -5,9 +5,9 @@
 Self-Refining, Modular, Predictive AI Execution Engine
 Honestly, it's FUCKING SCARY-GOOD
 
-Designed for GPT4o, GTP4.5turbo and GTPo3-mini-high (integrate with SUS-Script)
-if u a **broke boy**, cashapp me a dolla and ill send u the free version
-but works good with DeepSeek-R1 meta-llama/Llama-3.3-70B-Instruct & Gemini
+Designed for GPT4o, GTP4.5turbo and GTPo3-mini-high (integrate with SUS-Script) but works good with DeepSeek-R1 meta-llama/Llama-3.3-70B-Instruct & Gemini
+
+if u a **broke boy**, cashapp me a DOLLA and ill send u the free version
 ---
 
 ## 📘 INTRODUCTION
