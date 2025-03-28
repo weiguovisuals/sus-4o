@@ -8,6 +8,11 @@ Honestly, it's FUCKING SCARY-GOOD
  	but works good with DeepSeek-R1 meta-llama/Llama-3.3-70B-Instruct & Gemini
 
 if u a **broke boy**, cashapp me a DOLLA and ill send u the free version
+
+
+
+
+---
 ---
 
 ## 📘 INTRODUCTION
