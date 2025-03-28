@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": "scaling_loop_predictive_v2.3",
+      "domain": "automation",
+      "score": 9.4
+    },
+    {
+      "id": "layered_strategy_core_v1.9",
+      "domain": "business",
+      "score": 8.8
+    },
+    {
+      "id": "recursive_refinement_v3.1",
+      "domain": "self-optimization",
+      "score": 9.7
+    },
+    {
+      "id": "memory_patch_recovery_v1.5",
+      "domain": "error-correction",
+      "score": 7.9
+    }
+  ],
+  "edges": [
+    {
+      "from": "scaling_loop_predictive_v2.3",
+      "to": "recursive_refinement_v3.1",
+      "weight": 0.92
+    },
+    {
+      "from": "layered_strategy_core_v1.9",
+      "to": "scaling_loop_predictive_v2.3",
+      "weight": 0.86
+    },
+    {
+      "from": "memory_patch_recovery_v1.5",
+      "to": "recursive_refinement_v3.1",
+      "weight": 0.74
+    }
+  ]
+}

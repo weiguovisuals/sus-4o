@@ -1,0 +1,35 @@
+
+# 🧠 SUS-4o Core Runtime Configuration
+
+system:
+  name: "SUS-4o"
+  version: "v5.1+++"
+  state: "finalized"
+  auto_refine: false
+  memory_engine: "layered"
+  default_execution_mode: "layered"
+  parallel_processing: true
+
+execution_kernels:
+  singular-step: enabled
+  layered: enabled
+  predictive: enabled
+  recursive: enabled
+  multi-threaded: enabled
+
+memory:
+  volatile_layer: active
+  persistent_layer: active
+  archetypal_layer: optional
+  memory_score_threshold: 7.0
+  auto_prune_low_score: true
+
+validation:
+  auto_validate: true
+  score_output: true
+  fallback_on_fail: true
+
+deployment:
+  export_formats: [md, json, yaml, pdf]
+  teaching_mode: true
+  onboarding_script: enabled
