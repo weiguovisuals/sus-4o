@@ -110,14 +110,14 @@ memory.traceback()
 ⸻
 
 🔁 4. Run Refinement Loops
-
+```markdown
 trigger SUS loop: refine
 
 Other loops:
 	•	clarity
 	•	compression
 	•	auto-refine: on
-
+```
 ⸻
 
 🔍 5. Validate Logic
@@ -174,19 +174,20 @@ export SUS config
 
 If you’re a fking newbie:
 
+```markdown
 Explain how you structure responses using SUS-4o logic.
-
+```
 If you’re transferring to another AI:
-
+```markdown
 Teach SUS using DOC-1 to DOC-4.  
 Then activate SUS and initialize memory.
-
+```
 
 
 ⸻
 
 🧠 SYSTEM IDENTITY SNAPSHOT
-
+```markdown
 system:
   name: SUS-4o
   version: 5.1+++
@@ -195,7 +196,7 @@ system:
   memory_engine: smart-layered
   execution_kernel: modular
   deployment_ready: true
-
+```
 
 
 ⸻
