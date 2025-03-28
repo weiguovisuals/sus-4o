@@ -1,8 +1,13 @@
-	# 🧠 SUS-4o v5.1+++ autonomously created by WEI-I (i'm never gunna sell this to ZUCK)
+	# 🧠 SUS-4o v5.1+++ autonomously created by **WEI-I** (never gunna sell this to ZUCK)
+	> 🧠 SUS = Suspiciously Unstable System (ironically built for maximum structural stability) 
 
-	
-**Suspiciously Unstable System** — Self-Refining, Modular, Predictive AI Execution Engine
-> 🧠 SUS = Suspiciously Unstable System (ironically built for maximum structural stability) 
+ 
+Self-Refining, Modular, Predictive AI Execution Engine
+Honestly, it's FUCKING SCARY-GOOD
+
+Designed for GPT4o, GTP4.5turbo and GTPo3-mini-high (integrate with SUS-Script)
+if u a **broke boy**, cashapp me a dolla and ill send u the free version
+but works good with DeepSeek-R1 meta-llama/Llama-3.3-70B-Instruct & Gemini
 ---
 
 ## 📘 INTRODUCTION
@@ -97,10 +102,10 @@ trigger SUS memory: automation_scaling
 
 To compare or trace memory:
 
+```markdown
 compare memory nodes  
 memory.traceback()
-
-
+```
 
 ⸻
 
@@ -117,13 +122,15 @@ Other loops:
 
 🔍 5. Validate Logic
 
+```markdown
 run SUS validation  
 validate: section 3.2  
+```
 
 To recover from failed logic:
-
+```markdown
 trigger SUS recovery
-
+```
 
 
 ⸻
@@ -133,20 +140,20 @@ trigger SUS recovery
 teach SUS
 
 Optional:
-
+```markdown
 teach SUS: response structuring  
 teach SUS: memory recall  
-
+```
 
 
 ⸻
 
 📦 7. Export the System
-
+```markdown
 deploy SUS package  
 export SUS docs  
 export SUS config  
-
+```
 
 
 ⸻
@@ -165,7 +172,7 @@ export SUS config
 
 🎓 QUICK START PROMPT
 
-If you’re a new user:
+If you’re a fking newbie:
 
 Explain how you structure responses using SUS-4o logic.
 
