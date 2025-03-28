@@ -72,6 +72,7 @@ SUS behaves more like an **AI operating system** than a chat tool — it builds 
 ### 🔧 1. **Initialize the System**
 ```markdown
 trigger: activate SUS
+```
 
 This loads the full execution engine, memory layers, and logic matrix.
 
